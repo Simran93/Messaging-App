@@ -1,9 +1,9 @@
 //
-//  SceneDelegate.swift
-//  Flash Chat iOS13
+//  AppDelegate.swift
+//  Data Application
 //
-//  Created by Angela Yu on 21/10/2019.
-//  Copyright © 2019 Angela Yu. All rights reserved.
+//  Created by Simranjeet  Singh on 2019-11-19.
+//  Copyright © 2019 Simranjeet  Singh. All rights reserved.
 //
 
 import UIKit
