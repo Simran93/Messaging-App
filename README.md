@@ -3,7 +3,9 @@ I've built this messaging app by using Google's Firebase Firestore service
 as a Backend Database to store and retrive messages.
 To integrate Firebase, I've used Cocoapods as dependency manager and 
 also used Swift package manager to add functionality to control Keyboard related functionality.
-![IMG_1448](https://user-images.githubusercontent.com/47301732/72749911-57557c80-3b89-11ea-826e-5674689a45f1.PNG)
-![IMG_1450](https://user-images.githubusercontent.com/47301732/72749913-57557c80-3b89-11ea-8ee2-3bf65f89b2e4.PNG)
-![IMG_1451](https://user-images.githubusercontent.com/47301732/72749914-57ee1300-3b89-11ea-89e0-1d2a191ce9a1.PNG)
-![IMG_1452](https://user-images.githubusercontent.com/47301732/72749915-57ee1300-3b89-11ea-93c7-fb33deb32519.PNG)
+
+![Screen Shot 2020-01-21 at 3 09 05 PM](https://user-images.githubusercontent.com/47301732/72839542-76730d80-3c60-11ea-85ee-4cbd26adda38.png)
+![Screen Shot 2020-01-21 at 3 09 24 PM](https://user-images.githubusercontent.com/47301732/72839543-76730d80-3c60-11ea-97a6-bce58ed14ab7.png)
+![Screen Shot 2020-01-21 at 3 10 01 PM](https://user-images.githubusercontent.com/47301732/72839544-76730d80-3c60-11ea-936f-231dcf895225.png)
+![Screen Shot 2020-01-21 at 3 10 53 PM](https://user-images.githubusercontent.com/47301732/72839545-770ba400-3c60-11ea-950c-38c952331f01.png)
+
